@@ -25,6 +25,7 @@ I specialize in crafting responsive, high-performance web applications and dynam
 
 ### 📌 Featured Projects
 
+- 🎓 **AdmissionEngine** – ASP.NET Core Web API evaluating university admission chances via UTME/O'Level metrics with smart alternative course recommendations.
 - 🛠️ **SoluTech** – Single-page gadget repair web app featuring instant cost estimation and interactive appointment booking. ([Live Demo](https://vorex-lab.github.io/SoluTech/))
 - 🍔 **Fresh Bite** – Mobile-first restaurant ordering application with dynamic menus and direct WhatsApp routing.
 
