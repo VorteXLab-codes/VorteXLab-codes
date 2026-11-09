@@ -1,8 +1,8 @@
 ### 📊 GitHub Profile Overview
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/VoreX-Lab?style=for-the-badge&logo=github&color=0d1117&labelColor=161b22" />
-  <img src="https://img.shields.io/github/stars/VoreX-Lab?style=for-the-badge&logo=github&color=0d1117&labelColor=161b22" />
+  <img src="https://img.shields.io/github/followers/VorteXLab-codes?style=for-the-badge&logo=github&color=0d1117&labelColor=161b22" />
+  <img src="https://img.shields.io/github/stars/VorteXLab-codes?style=for-the-badge&logo=github&color=0d1117&labelColor=161b22" />
 </p>
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/vortex_lab)
