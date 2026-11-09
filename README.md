@@ -33,7 +33,7 @@ I specialize in crafting responsive, high-performance web applications and dynam
 
 ### 📊 GitHub Activity
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=VoreX-Lab&theme=dark&background=161b22&border=30363d&fire=ff7b72&sideLabels=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=VorteXLab-codes&theme=dark&background=161b22&border=30363d&fire=ff7b72&sideLabels=true)](https://git.io/streak-stats)
 
 ---
 
